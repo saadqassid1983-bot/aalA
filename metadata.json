@@ -1,0 +1,6 @@
+{
+  "name": "Studio Comédie 5 Min - Funny Video Studio",
+  "description": "Générateur et studio de création de vidéos comiques et sketches de 5 minutes avec IA, storyboard animé, bruitages comiques, prompteur et export vidéo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
